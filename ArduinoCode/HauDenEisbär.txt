@@ -1,0 +1,58 @@
+ToDo Hallo Eisbär
+
+Rahmen-Fixierung
+- 4x Gewindestange
+- 4x Flügelmutter
+- 8x rechter winkel
+
+- Rahmen-Fertigung
+-- sperrholz
+-- spielfläche 24x24cm
+-- rahmendicke 5cm
+-- verbindungsstellen mit nase
+-- nase abschleifen
+
+- acryl
+-- 5mm dick
+-- würfel auf einer seite offen
+-- acrylkleber
+-- 5 wände pro würfel
+-- 1 wand: 4x4
+-- 22 kleine würfel
+-- 1 großer wüfel 2x2
+-- acrylglas ca 60x40 cm
+-- "oben" markierung
+
+- beleuchtung
+-- 24 kontakte an der innenseite des rahmens
+-- 4 kontakte pro würfel
+-- 1 kontakt pro seite
+-- 92 Kontakte
+-- 24 LEDs
+
+- hammer 2x oder button
+-- lasern aus holz
+-- 3 schichten
+-- piezo kontakt vorne aufkleben
+-- leitung zum arduino
+-- visualisierung der verbleibenden schläge durch grüne LEDs
+
+
+- figur
+-- eiswürfel bekommtn RGB-LED
+-- aussparung für vibrator
+-- 3D-Druck, Modell aus internet
+-- 2 Kontakte zur Stromversorgung
+-- evtl. RGB-LED hier rein
+
+- arduino
+-- reaktion auf hammer: soundbibliothek zufallswiedergabe wav, LED ausschalten
+-- anzahl erlaubter schläge vermindern?
+-- timer: 3D-Figur aktivieren (Vibrator)
+-- timer: rahmen?
+-- farbe von spielfigur regeln
+-- spielablauf
+
+- katapult?
+-- spannen durch servo
+-- auslösen durch arduino

@@ -1,0 +1,33 @@
+Priorität 1
+------
+
+"Kran" bestehend aus
+- Shell
+-- 1 Gewindestange
+-- Führungsstangen (?)
+-- aus Holz gecuttet: Gehäuse
+-- Plattform zum Transport der Operationseinheit
+-- Schrittmotor zur Höhenverstellung der Operationseinheit
+---> alten 3D-Drucker auseinandernehmen, hoch genug?
+
+- Operationseinheit
+-- Infrarotsensor analog (Sharp GP2Y0A51SK0F Range 2-15cm)
+-- Schrittmotor mit ca. 15cm langem Finger zum herausdrücken der Steine
+
+
+Priorität 2
+-------
+- Drehbare Plattform, auf der sich der Jenga-Turm befindet
+-- Schrittmotor, der sich um >=90° drehen kann
+-- Führungsschiene außen für Kugeln, damit das Ding ruhig läuft
+-- Kugellager-Kugeln, z.B. aus alten Inlineskates
+-- komplett entkoppelt vom Kran
+
+Priorität 3
+-------
+- Operationseinheit
+-- mit Laser versehen, um ausgewählten Stein zu beleuchten
+
+
+ToDo:
+- Repository anlegen
