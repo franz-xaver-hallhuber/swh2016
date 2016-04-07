@@ -13,7 +13,7 @@ Rahmen-Fixierung
 -- nase abschleifen
 
 - acryl
--- 5mm dick
+-- 3mm dick
 -- würfel auf einer seite offen
 -- acrylkleber
 -- 5 wände pro würfel
