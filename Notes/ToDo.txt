@@ -1,9 +1,12 @@
 ToDo Hallo Eisbär
 
-Rahmen-Fixierung
+- Rahmen-Fixierung
+{
 - 4x Gewindestange
 - 4x Flügelmutter
 - 8x rechter winkel
+} stattdessen
+-- 
 
 - Rahmen-Fertigung
 -- sperrholz
@@ -18,8 +21,10 @@ Rahmen-Fixierung
 -- acrylkleber
 -- 5 wände pro würfel
 -- 1 wand: 4x4
--- 22 kleine würfel
--- 1 großer wüfel 2x2
+-- 33 kleine würfel
+-- insgesamt klene Würfel: 16cm²*5*33 = 2640cm²
+-- 1 großer wüfel 2x2, 192cm²
+-- insgesamt: 2832cm²
 -- acrylglas ca 60x40 cm
 -- "oben" markierung
 
@@ -27,8 +32,8 @@ Rahmen-Fixierung
 -- 24 kontakte an der innenseite des rahmens
 -- 4 kontakte pro würfel
 -- 1 kontakt pro seite
--- 92 Kontakte
--- 24 LEDs
+-- 132 Kontakte
+-- 36 LEDs
 
 - hammer 2x oder button
 -- lasern aus holz
@@ -52,6 +57,10 @@ Rahmen-Fixierung
 -- timer: rahmen?
 -- farbe von spielfigur regeln
 -- spielablauf
+
+- dancefloor
+-- 32 npn-Transistoren
+-
 
 - katapult?
 -- spannen durch servo
