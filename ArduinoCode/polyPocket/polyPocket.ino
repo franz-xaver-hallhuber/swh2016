@@ -336,10 +336,10 @@ void hitsDecrB() {
     }
     else {
       digitalWrite(rot, HIGH);
-      digitalWrite(polly, HIGH);
+      //digitalWrite(polly, HIGH);
       delay(2000);
-      digitalWrite(polly, LOW);
       digitalWrite(rot, LOW);
+      //digitalWrite(polly, LOW);
       pinkturn = true;
       blueturn = false;
       hitsValBlue = 3;
@@ -354,9 +354,9 @@ void hitsDecrP() {
     }
     else {
       digitalWrite(rot, HIGH);
-      digitalWrite(polly, HIGH);
+      //digitalWrite(polly, HIGH);
       delay(2000);
-      digitalWrite(polly, LOW);
+      //digitalWrite(polly, LOW);
       digitalWrite(rot, LOW);
       blueturn = true;
       pinkturn = false;
